@@ -1,8 +1,8 @@
 :root {
-    --color-background: white;
-    --color-on-background: black;
+    --color-background: blue;
+    --color-on-background: white;
     --color-primary: red;
-    --color-on-primary: yellow;
+    --color-on-primary: white;
 }
 
 .nav {
